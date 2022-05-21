@@ -2,6 +2,8 @@
 
 To do list app built on nuxt.js
 
+https://to-do-app-navy.vercel.app/
+
 ## Build Setup
 
 ```bash
