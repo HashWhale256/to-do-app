@@ -1,4 +1,6 @@
-# todo
+# TO DO LIST APP
+
+To do list app built on nuxt.js
 
 ## Build Setup
 
